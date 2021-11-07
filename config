@@ -19,7 +19,7 @@
     "Wechat": "2"
   },
   "hosts": [
-    "https://www.v2ky.net",
-    "http://www.v2ky.com"
+    "https://www.v2ky.net/",
+    "http://www.v2ky.com/"
   ]
 }
